@@ -1,0 +1,13 @@
+﻿<Page
+    x:Class="TemplateDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TemplateDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:syncfusiom="using:Syncfusion.UI.Xaml.CellGrid"
+    mc:Ignorable="d">
+    <Grid>
+        <syncfusiom:SfCellGrid x:Name="grid" RowCount="20" ColumnCount="6"></syncfusiom:SfCellGrid>
+    </Grid>
+</Page>
