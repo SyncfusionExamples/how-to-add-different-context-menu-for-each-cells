@@ -1,4 +1,4 @@
-# How to add different context menu for each cells in UWP CellGrid
+# How to Add Different Context Menu for Each Cells in UWP CellGrid?
 
 This example demonstrates how to add different context menu for each cells in [UWP CellGrid](https://help.syncfusion.com/uwp/cellgrid/overview) (SfCellGrid).
 
@@ -31,4 +31,4 @@ private ContextMenu GetCellContextMenu()
 }
 ```
 
-![](https://www.syncfusion.com/uploads/user/kb/uwp/uwp-10237/uwp-10237_img1.png)
+![Showing context menu on CellGrid](ContextMenuInCellGrid.png)
